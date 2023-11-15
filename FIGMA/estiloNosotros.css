@@ -1,0 +1,83 @@
+.body{
+    margin: 0%;
+}
+
+.section1{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 145px;
+    font-size: 200%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 350px;
+}
+
+.section1 p{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 55%;
+}
+
+.section2{
+    padding-top: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 340px;
+}
+
+.section2 h1{
+    text-align: center;
+    font-size: 200%;
+}
+
+.obj{
+    width: 940px;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.obj li{
+    display: inline-block;
+    font-size: 500%;
+    font-weight: bold;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.obj2 {
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.obj2 li{
+    display: inline-block;
+    margin-left: 6%;
+    margin-right: 12%;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+.section3{
+    background-color: rgb(193, 253, 193);
+    height: 440px;
+    padding: 10 4%;
+    margin-left: 18%;
+    margin-right: 18%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.section3 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+}
+
+.section3 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 90%;
+}

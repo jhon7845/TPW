@@ -1,0 +1,133 @@
+.body{
+    margin: 0%;
+}
+
+.section1{
+    background-color: rgb(29, 29, 29);
+    height: 730px;
+    padding-top: 10%;
+}
+
+.section1 h1{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sectionp {
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sectionul {
+    width: 940;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.sectionul li{
+    align-items: center;
+    display: inline-block;
+    width: 27%;
+    height: 77%;
+    vertical-align: top;
+    margin-left: 50px;
+    padding: 0px 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 100%;
+    background-color: rgb(90, 90, 90);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+}
+
+.sectionul p{
+    font-size: 85%;
+}
+
+.section2{
+    padding-top: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 360px;
+}
+
+.section2 h1{
+    text-align: center;
+    font-size: 200%;
+}
+
+.obj{
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.obj li{
+    color: rgb(66, 255, 129);
+    display: inline-block;
+    font-size: 400%;
+    margin-right: 13%;
+    margin-left: 11%;
+}
+
+.obj2 {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.obj2 li{
+    display: inline-block;
+    margin-left: 11%;
+    margin-right: -4%;
+    vertical-align: top;
+    font-size: 80%;
+}
+
+.button1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    padding: 3px 65px;
+    left: 20%;
+    bottom: -27%;
+    font-size: 100%;
+    background-color: rgb(25, 255, 101);
+    border: none;
+    border-radius: 4px;
+}
+
+.button1:hover {
+    background-color: rgb(140, 255, 178);
+}
+
+.button2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    padding: 3px 65px;
+    left: 43%;
+    bottom: -27%;
+    font-size: 100%;
+    background-color: rgb(25, 255, 101);
+    border: none;
+    border-radius: 4px;
+}
+
+.button2:hover {
+    background-color: rgb(140, 255, 178);
+}
+
+.button3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    padding: 3.8px 65px;
+    left: 65.8%;
+    bottom: -27%;
+    font-size: 120%;
+    background-color: rgb(25, 255, 101);
+    border: none;
+    border-radius: 4px;
+}
+
+.button3:hover {
+    background-color: rgb(140, 255, 178);
+}

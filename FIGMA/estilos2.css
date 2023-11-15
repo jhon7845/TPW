@@ -1,0 +1,236 @@
+.anuncio{
+    padding-top: 75px;
+    background-color:   rgb(29, 29, 29);
+    height: 410px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 130%;
+    flex-wrap: wrap;
+}
+
+.anuncioh2{
+    width: 300px;
+    text-align: center;
+    margin-left: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+    min-width: 300px;
+}
+
+.imagen{
+    padding-left: 35px;
+    flex: 2;
+}
+
+.ptext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-justify: auto;
+    font-size: 80%;
+    flex: 3;
+}
+
+.anuncio3{
+    padding-top: 60px;
+    background-color: white;
+    height: 150px;
+    align-items: center;
+    color: black;
+    font-size: 120%;
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+}
+
+.anuncio3 h3{
+    flex: 1;
+    min-width: 300px;
+}
+
+.anuncio3 h1{
+    flex: 2;
+}
+
+.anuncio4{
+    padding-top: 0px;
+    background-color: white;
+    height: 0px;
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 100%;
+    justify-content: space-between;
+    margin-left: 18%;
+    margin-right: 13%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0px;
+}
+
+.anuncio5{
+    padding-top: 10px;
+    background-color: white;
+    height: 150px;
+    display: flex;  
+    color: black;
+    font-size: 130%;
+    margin-left: 5%;
+    margin-right: 3%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+.secc2{
+    padding-top: 10px;
+    background-color: rgb(29,29,29);
+    height: 1650px;
+    color: white;
+}
+
+.nav1{    
+    align-items: center;
+    color: white;
+    font-size: 140%;
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.categorias{
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.categorias li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 20%;
+}
+
+.categorias li:hover{
+    border-color: #68fa7b;
+}
+
+.categorias li:active{
+    border-color: #68fa7b;
+}
+
+.catNombre{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.categorias li:hover p{
+    font-size: 22px;
+}
+
+.imagenes{
+    width: 250;
+    height: 200;
+    border-radius: 10px;
+}
+
+.nav2{    
+    align-items: center;
+    color: white;
+    font-size: 120%;
+    margin-left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.categorias2{
+    width: 940px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.categorias2 li{
+    display: inline-block;
+    width: 20%;
+    height: 17%;
+    vertical-align: top;
+    margin: 1% 1.5%;
+    padding: 0px 5px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 100%;
+    background-color: rgb(198, 255, 255);
+}
+
+.ptitulo{
+    font-size: 110%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.prutAp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 90%;
+}
+
+.categorias2 li:hover{
+    border-color: white;
+    background-color: white;
+}
+
+.categorias2 li:active{
+    border-color: white;
+}
+
+.categorias2 li:hover h4{
+    font-size: 18.5px;
+}
+
+.navfoot2{
+    padding-top: 50px;
+    margin-left: 25%;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
+    height: 50;
+}
+
+.clasul {
+    margin-left: 25%;
+}
+
+.clasul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.navfoot3{
+    margin-left: 25%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
+}
+
+.navfoot4{
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.navfoot4 li{
+    padding-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70%;
+}

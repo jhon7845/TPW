@@ -1,0 +1,81 @@
+.body{
+    margin: 0%;
+}
+
+.section1{
+    background-color: rgb(29, 29, 29);    
+    padding-top: 100px;
+    height: 200px;
+}
+
+.section1 h1{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 190%;
+}
+
+.section1 p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.section2{
+    background-color: rgb(29, 29, 29);
+    height: 400px;
+}
+
+.imagenes{
+    width: 40;
+    height: 40;
+}
+
+.nav{
+    background-color: white;
+    height: 300px;
+    padding: 10 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5%;
+}
+
+.nav li{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 13%;
+    margin-right: 7%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.ul2 li{
+    padding-top: 5px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+.ul3 li{
+    padding-top: 40px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 13%;
+    margin-right: 9%;
+}
+
+.ul4 li{
+    padding-top: 5px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 7%;
+    margin-right: 8%;
+}
+
+
+
+

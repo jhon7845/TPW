@@ -1,0 +1,50 @@
+.header{
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headerBarra{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 73px;
+    font-size: 110%;
+}
+
+.headerlogo{
+    margin-left: -32%;
+}
+
+.navegacion{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    margin-right: 1%;
+}
+
+.navegacion a:hover{
+    color: rgb(66, 255, 129);
+    text-decoration: underline;
+}
+
+.navegacionTop{
+    text-decoration: none;
+    color: black;
+    font-size: 80%;
+    margin-left: 0%;
+    padding: 1px 7px;
+}
+
+.titulo{
+    color: black;
+    margin-left: 2%;
+}
+
+.navegacionfoot{
+    text-decoration: none;
+    color: black;
+}
